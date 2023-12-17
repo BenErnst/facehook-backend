@@ -1,0 +1,43 @@
+20/05/2022, 9:34:11 - INFO - Server is running on port: 3030 
+29/05/2022, 22:29:21 - INFO - Server is running on port: 3030 
+31/05/2022, 23:21:48 - INFO - Server is running on port: 3030 
+02/06/2022, 14:17:29 - INFO - Server is running on port: 3030 
+05/06/2022, 11:36:00 - INFO - Server is running on port: 3030 
+17/06/2022, 11:00:41 - INFO - Server is running on port: 3030 
+19/06/2022, 20:06:52 - INFO - Server is running on port: 3030 
+30/06/2022, 15:20:07 - INFO - Server is running on port: 3030 
+03/07/2022, 20:56:26 - INFO - Server is running on port: 3030 
+10/07/2022, 22:05:40 - INFO - Server is running on port: 3030 
+10/07/2022, 23:37:01 - INFO - Server is running on port: 3030 
+16/07/2022, 11:42:48 - INFO - Server is running on port: 3030 
+18/07/2022, 11:58:19 - INFO - Server is running on port: 3030 
+19/07/2022, 11:45:24 - INFO - Server is running on port: 3030 
+22/07/2022, 19:05:35 - INFO - Server is running on port: 3030 
+30/07/2022, 11:37:45 - INFO - Server is running on port: 3030 
+31/07/2022, 21:58:18 - INFO - Server is running on port: 3030 
+01/08/2022, 11:32:02 - INFO - Server is running on port: 3030 
+15/08/2022, 22:08:36 - INFO - Server is running on port: 3030 
+05/10/2022, 12:01:24 - INFO - Server is running on port: 3030 
+10/10/2022, 0:36:34 - INFO - Server is running on port: 3030 
+12/10/2022, 21:33:36 - INFO - Server is running on port: 3030 
+23/10/2022, 21:53:44 - INFO - Server is running on port: 3030 
+05/11/2022, 13:49:26 - INFO - Server is running on port: 3030 
+12/3/2022, 3:45:43 PM - INFO - Server is running on port: 3030 
+2/17/2023, 11:01:37 PM - INFO - Server is running on port: 3030 
+2/17/2023, 11:02:17 PM - ERROR - Cannot find users | ReferenceError: logger is not defined 
+2/17/2023, 11:02:17 PM - ERROR - Failed to get users | ReferenceError: logger is not defined 
+2/17/2023, 11:03:51 PM - ERROR - Cannot find users | ReferenceError: logger is not defined 
+2/17/2023, 11:03:51 PM - ERROR - Failed to get users | ReferenceError: logger is not defined 
+2/17/2023, 11:04:03 PM - ERROR - Cannot find users | ReferenceError: logger is not defined 
+2/17/2023, 11:04:03 PM - ERROR - Failed to get users | ReferenceError: logger is not defined 
+2/17/2023, 11:04:44 PM - ERROR - Cannot find users | ReferenceError: logger is not defined 
+2/17/2023, 11:04:44 PM - ERROR - Failed to get users | ReferenceError: logger is not defined 
+2/17/2023, 11:04:44 PM - ERROR - Cannot find users | ReferenceError: logger is not defined 
+2/17/2023, 11:04:44 PM - ERROR - Failed to get users | ReferenceError: logger is not defined 
+2/17/2023, 11:05:19 PM - ERROR - Cannot find users | ReferenceError: logger is not defined 
+2/17/2023, 11:05:19 PM - ERROR - Failed to get users | ReferenceError: logger is not defined 
+3/16/2023, 10:18:48 PM - INFO - Server is running on port: 3030 
+4/15/2023, 3:24:11 PM - INFO - Server is running on port: 3030 
+4/23/2023, 9:29:35 PM - INFO - Server is running on port: 3030 
+6/12/2023, 12:35:40 AM - INFO - Server is running on port: 3030 
+8/4/2023, 10:59:54 AM - INFO - Server is running on port: 3030 
